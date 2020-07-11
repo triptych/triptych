@@ -15,6 +15,10 @@ You can reach me via email at `triptych (at gmail dot com)`. Or you can find me 
 * ✨ My fun site -> [Triptych.neocities.org](https://triptych.neocities.org)
 * ⚗️ My GumRoad -> [triptych](https://gumroad.com/triptych)
 
+<hr/>
+
+<img alt="GitHub Followers" src="https://img.shields.io/github/followers/triptych?label=Followers"> |
+<img alt="Twitter Followers" src="https://img.shields.io/twitter/follow/triptych"> 
 
 <!--
 **triptych/triptych** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
