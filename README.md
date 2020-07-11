@@ -1,4 +1,3 @@
-
 My name is Andrew Wooldridge. I'm a webdev at [eBay](http://www.ebay.com) who loves all things JavaScript. I'm also a growing fan of the [Godot](https://godotengine.org/) game engine and [Rust](https://www.rust-lang.org/). I'm a husband and father.
 
 You can reach me via email at `triptych (at gmail dot com)`. Or you can find me on Twitter @[triptych](https://twitter.com/triptych) .
@@ -20,6 +19,12 @@ You can reach me via email at `triptych (at gmail dot com)`. Or you can find me 
 <img alt="GitHub Followers" src="https://img.shields.io/github/followers/triptych?label=Followers"> |
 <img alt="Twitter Followers" src="https://img.shields.io/twitter/follow/triptych"> 
 
+<hr/>
+
+<!--
+<img src="games-gif-the-legend-of-zelda-legend-of-zelda-1889169.gif" height="300" width="300">
+
+-->
 <!--
 **triptych/triptych** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
