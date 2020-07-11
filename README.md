@@ -11,7 +11,8 @@ You can reach me via email at `triptych (at gmail dot com)`. Or you can find me 
 * 🔑 My identity lives here on KeyBase -> [triptych](https://keybase.io/triptych)
 * 🏺 My tip jar -> [triptych](https://ko-fi.com/triptych)
 * 📜 My resume -> [triptych](https://gist.github.com/triptych/54cdf5112feeadb9ca91)
-* 🏠 My site -> [Andreww.xyz](https://andreww.xyz/)
+* 🏠 My official site -> [Andreww.xyz](https://andreww.xyz/)
+* ✨ My fun site -> [Triptych.neocities.org](https://triptych.neocities.org)
 * ⚗️ My GumRoad -> [triptych](https://gumroad.com/triptych)
 
 
