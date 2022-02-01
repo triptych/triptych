@@ -1,6 +1,6 @@
 My name is Andrew Wooldridge. I'm a webdev at [eBay](http://www.ebay.com) who loves all things JavaScript. I'm also a growing fan of the [Godot](https://godotengine.org/) game engine and [Rust](https://www.rust-lang.org/). I'm a husband and father.
 
-You can reach me via email at `triptych (at gmail dot com)`. Or you can find me on Twitter @[triptych](https://twitter.com/triptych) .
+You can reach me via email at `triptych (at gmail dot com)`. Or you can find me on Twitter [@triptych](https://twitter.com/triptych) .
 
 <!-- * 🖊️ I am a technical writer on LeanPub -> [triptych](https://leanpub.com/u/triptych). -->
 <!-- * 🐲 I am a fantasy writer on WattPad -> [triptych](https://www.wattpad.com/user/triptych). -->
