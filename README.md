@@ -5,7 +5,7 @@ You can reach me via email at `triptych (at gmail dot com)`. Or you can find me 
 <!-- * 🖊️ I am a technical writer on LeanPub -> [triptych](https://leanpub.com/u/triptych). -->
 <!-- * 🐲 I am a fantasy writer on WattPad -> [triptych](https://www.wattpad.com/user/triptych). -->
 * 💻 I am a coder on GitHub -> [triptych](https://github.com/triptych).
-* 🐘 I am a friend on Mastodon -> [@triptych@whisperstorm.xyz](https://whisperstorm.xyz/@triptych)
+<!-- * 🐘 I am a friend on Mastodon -> [@triptych@whisperstorm.xyz](https://whisperstorm.xyz/@triptych) -->
 * 🕹️ I am a game developer on itch.io -> [triptych](https://triptych.itch.io)
 * 🔑 My identity lives here on KeyBase -> [triptych](https://keybase.io/triptych)
 * 🏺 My tip jar -> [triptych](https://ko-fi.com/triptych)
