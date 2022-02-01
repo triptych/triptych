@@ -2,8 +2,8 @@ My name is Andrew Wooldridge. I'm a webdev at [eBay](http://www.ebay.com) who lo
 
 You can reach me via email at `triptych (at gmail dot com)`. Or you can find me on Twitter @[triptych](https://twitter.com/triptych) .
 
-* 🖊️ I am a technical writer on LeanPub -> [triptych](https://leanpub.com/u/triptych).
-* 🐲 I am a fantasy writer on WattPad -> [triptych](https://www.wattpad.com/user/triptych). 
+<!-- * 🖊️ I am a technical writer on LeanPub -> [triptych](https://leanpub.com/u/triptych). -->
+<!-- * 🐲 I am a fantasy writer on WattPad -> [triptych](https://www.wattpad.com/user/triptych). -->
 * 💻 I am a coder on GitHub -> [triptych](https://github.com/triptych).
 * 🐘 I am a friend on Mastodon -> [@triptych@whisperstorm.xyz](https://whisperstorm.xyz/@triptych)
 * 🕹️ I am a game developer on itch.io -> [triptych](https://triptych.itch.io)
@@ -11,7 +11,7 @@ You can reach me via email at `triptych (at gmail dot com)`. Or you can find me 
 * 🏺 My tip jar -> [triptych](https://ko-fi.com/triptych)
 * 📜 My resume -> [triptych](https://gist.github.com/triptych/54cdf5112feeadb9ca91)
 * 🏠 My official site -> [Andreww.xyz](https://andreww.xyz/)
-* ✨ My fun site -> [Triptych.neocities.org](https://triptych.neocities.org)
+* ✨ My fun site -> [triptych.neocities.org](https://triptych.neocities.org)
 * ⚗️ My GumRoad -> [triptych](https://gumroad.com/triptych)
 
 <img src="https://res.cloudinary.com/triptych/image/upload/v1594504650/green-purple-slide_rsex4w.gif" align="center">
