@@ -16,8 +16,7 @@ You can reach me via email at `triptych (at gmail dot com)`. Or you can find me 
 
 <img src="https://res.cloudinary.com/triptych/image/upload/v1594504650/green-purple-slide_rsex4w.gif" align="center">
 
-<img alt="GitHub Followers" src="https://img.shields.io/github/followers/triptych?label=Followers"> |
-<img alt="Twitter Followers" src="https://img.shields.io/twitter/follow/triptych"> 
+<img alt="GitHub Followers" src="https://img.shields.io/github/followers/triptych?label=Followers"> <img alt="Twitter Followers" src="https://img.shields.io/twitter/follow/triptych"> 
 
 <img src="https://res.cloudinary.com/triptych/image/upload/v1594504650/green-purple-slide_rsex4w.gif" align="center">
 
