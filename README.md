@@ -21,7 +21,7 @@ You can reach me via email at `triptych (at gmail dot com)`. Or you can find me 
 <img src="https://res.cloudinary.com/triptych/image/upload/v1594504650/green-purple-slide_rsex4w.gif" align="center">
 
 <!-- from https://daily.dev/blog/adding-the-daily-devcard-to-your-github-profile -->
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://raw.githubusercontent.com/triptych/triptych/03a2bd099db987499b70b26fdf64fa1a2b737d6d/devcard.svg" width="400" alt="Andrew Wooldridge's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/triptych/triptych/blob/master/devcard.svg" width="400" alt="Andrew Wooldridge's Dev Card"/></a>
 
 
 <!--
