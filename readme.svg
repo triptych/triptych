@@ -32,6 +32,9 @@
           display: inline-block;
           transform-origin: 70% 70%;
         }
+        .text {
+          color: lightblue;
+         }
 
         @media (prefers-reduced-motion) {
           .hi {
@@ -41,7 +44,8 @@
       </style>
 
       <div class="container">
-        <h1>Hi there, my name is Andrew <div class="hi">👋</div></h1>
+        <h1>Hi there, I'm Andrew Wooldridge <div class="hi">👋</div></h1>
+
       </div>
     </div>
   </foreignObject>
