@@ -8,6 +8,9 @@ Launched in Early Access on March 12. A standalone entry in the short-form JRPG 
 **Monster Hunter Stories 3: Twisted Reflection**
 Capcom's third entry in the spin-off JRPG series. Set around two kingdoms, two dragons, and impending extinction. Players bond with monsters called Monsties in a vibrant, Ghibli-esque world.
 
+**Seed of God** (March 5, PC)
+A solo-developer JRPG from One Guy No Gang Production blending 2D pixel art with 3D environments. Set in the kingdom of Riebenhelm, it centers on faith, political tension, and moral uncertainty. Player choices affect character relationships and story events. Available on PC after Early Access since September 2024.
+
 **Pokémon Pokopia** (March 5)
 A Minecraft-style crafting and exploration game from Game Freak, released to overwhelmingly positive previews.
 
@@ -48,6 +51,12 @@ Post-apocalyptic action RPG announced at Xbox Games Showcase 2025. Follows warri
 
 **Lost Hellden** — *Artisan Studios*
 Hand-painted JRPG with a watercolor art style. Combat features action and reaction phases, rewarding strategy and timing.
+
+**Deltarune: Chapter 5** — *Toby Fox (late 2026)*
+Toby Fox's Fall 2025 newsletter provided a roadmap pointing to a late 2026 release. Details remain scarce, but the chapter is expected to continue the series' strong track record.
+
+**Edge of Memories** — *Midgar Studio*
+Action RPG set on a new continent in the world of 2021's *Edge of Eternity*. Players battle the Corrosion plague in this follow-up from the French indie studio.
 
 **Final Fantasy VII Remake Part 3** — *Square Enix (anticipated)*
 Developers have confirmed progress and upcoming announcements. Likely reveal at Summer Games Fest 2026; release may slip to 2027 to align with the franchise's 30th anniversary.
