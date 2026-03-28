@@ -1,0 +1,73 @@
+# JRPG News Summary — March 2026
+
+## March 2026 Releases
+
+**Light Fairytale Episode 3**
+Launched in Early Access on March 12. A standalone entry in the short-form JRPG series featuring turn-based battles and hand-drawn anime cutscenes. Save carry-over from previous episodes lets players keep stats and gear.
+
+**Monster Hunter Stories 3: Twisted Reflection**
+Capcom's third entry in the spin-off JRPG series. Set around two kingdoms, two dragons, and impending extinction. Players bond with monsters called Monsties in a vibrant, Ghibli-esque world.
+
+**Pokémon Pokopia** (March 5)
+A Minecraft-style crafting and exploration game from Game Freak, released to overwhelmingly positive previews.
+
+**New This Week (March 26)**
+- *Etrange Overlord*
+- *Ariana and the Elder Codex*
+- *Mega Man Star Force Legacy Collection*
+- *Kena: Bridge of Spirits* (Switch 2)
+- *Mado Monogatari: Fia and the Wondrous Academy* (PC)
+
+**Dissidia Duellum Final Fantasy** (Mobile)
+A free-to-play 3v3 team boss arena battler for iOS and Android, published by Square Enix, developed by NHN PlayArt.
+
+---
+
+## Major 2026 JRPG Titles
+
+**Trails in the Sky 2nd Chapter** — *Nihon Falcom*
+A direct sequel to the 2025 release, arriving just one year later. Features the same real-time-to-turn-based hybrid battle system, new Crafts and S-Crafts, new party members, and minigames.
+
+**Trails Beyond the Horizon** — *Nihon Falcom*
+Marks the "beginning of the end" for Falcom's long-running Trails saga — a franchise-defining moment.
+
+**Dragon Quest VII: Reimagined** — *Square Enix*
+Full remake of Dragon Quest VII with a new diorama-inspired art style. Modernized job system, difficulty options, fast-forward in battle, and a first-ever shared inventory for the franchise.
+
+**DECAPOLICE** — *Level-5*
+A futuristic crime RPG blending detective investigation with turn-based combat inside virtual crime simulations. Originally announced in 2022, delayed multiple times, now targeting 2026.
+
+**Code Vein II** — *Bandai Namco*
+Action JRPG sequel with Soulslike mechanics. A time-travel narrative where players fight enemies and drain blood as a resource for skills.
+
+**Fire Emblem: Fortune's Weave** — *Nintendo / Intelligent Systems*
+New direction for the series, focused on gladiator combat. Debut trailer featured Sothis, suggesting a connection to Three Houses. No confirmed release date yet.
+
+**Beast of Reincarnation** — *Game Freak*
+Post-apocalyptic action RPG announced at Xbox Games Showcase 2025. Follows warrior Emma and her dog Koo through a vast world reminiscent of Horizon Zero Dawn and Princess Mononoke.
+
+**Lost Hellden** — *Artisan Studios*
+Hand-painted JRPG with a watercolor art style. Combat features action and reaction phases, rewarding strategy and timing.
+
+**Final Fantasy VII Remake Part 3** — *Square Enix (anticipated)*
+Developers have confirmed progress and upcoming announcements. Likely reveal at Summer Games Fest 2026; release may slip to 2027 to align with the franchise's 30th anniversary.
+
+---
+
+## The Bigger Picture
+
+2026 stands out not just for volume but for diversity — spanning action RPGs, narrative JRPGs, tactical strategy, monster collectors, and open-world adventures. Major franchises like Final Fantasy, Fire Emblem, Dragon Quest, Trails, and Pokémon all have significant entries this year, alongside ambitious new IPs.
+
+---
+
+## Sources
+
+- [Every JRPG Announced for 2026 (So Far) — Dual Shockers](https://www.dualshockers.com/every-jrpg-announced-for-2026/)
+- [The RPGs of 2026: Every RPG and their release dates — RPG Site](https://www.rpgsite.net/feature/16349-the-rpgs-2026-every-rpg-their-release-dates)
+- [It's Officially a New Era for JRPGs in 2026 — CBR](https://www.cbr.com/jrpgs-new-era-2026-final-fantasy-fire-emblem/)
+- [JRPG to Look Out For in 2026 — GamerBraves](https://www.gamerbraves.com/jrpg-to-look-out-for-in-2026-sequels-reimaginings-and-bold-new-worlds/)
+- [Top 20 Upcoming Turn-Based JRPGs of 2026 and Beyond — Turn Based Lovers](https://turnbasedlovers.com/lists/top-20-upcoming-turn-based-jrpgs-of-2026-and-beyond/)
+- [Every Turn-Based RPG Launching in March 2026 — Turn Based Lovers](https://turnbasedlovers.com/lists/every-turn-based-rpg-and-strategy-game-launching-in-march-2026/)
+- [New Release Round-Up (March 26, 2026) — RPGamer](https://rpgamer.com/2026/03/new-release-round-up-march-26-2026/)
+- [RPGFan's 30 Most Anticipated Games of 2026 — RPGFan](https://www.rpgfan.com/feature/rpgfans-30-most-anticipated-games-of-2026/)
+- [Welcome The Next 5 Big JRPGs — Game Rant](https://gamerant.com/big-upcoming-jrpgs-games-2025-2026/)
