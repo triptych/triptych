@@ -55,6 +55,9 @@ Hand-painted JRPG with a watercolor art style. Combat features action and reacti
 **Deltarune: Chapter 5** — *Toby Fox (late 2026)*
 Toby Fox's Fall 2025 newsletter provided a roadmap pointing to a late 2026 release. Details remain scarce, but the chapter is expected to continue the series' strong track record.
 
+**Arknights: Endfield** — *Hypergryph*
+Adapts the Arknights universe to console and PC with real-time combat, exploration, and base-building. Expands on Terra's lore through story-driven missions and tactical systems.
+
 **Edge of Memories** — *Midgar Studio*
 Action RPG set on a new continent in the world of 2021's *Edge of Eternity*. Players battle the Corrosion plague in this follow-up from the French indie studio.
 
