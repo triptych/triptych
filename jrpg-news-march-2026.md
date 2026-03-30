@@ -70,6 +70,11 @@ Developers have confirmed progress and upcoming announcements. Likely reveal at 
 
 2026 stands out not just for volume but for diversity — spanning action RPGs, narrative JRPGs, tactical strategy, monster collectors, and open-world adventures. Major franchises like Final Fantasy, Fire Emblem, Dragon Quest, Trails, and Pokémon all have significant entries this year, alongside ambitious new IPs.
 
+Key trends:
+- **Diversity of subgenres**: hardcore action RPGs, narrative JRPGs, tactical strategy RPGs, open-world adventures, and genre hybrids are all represented.
+- **Major franchises returning**: Dragon Quest, Fire Emblem, Trails/Kiseki, Code Vein, Monster Hunter Stories, and Final Fantasy all have significant 2026 presence.
+- **Mainstream growth**: Series like Persona, Xenoblade Chronicles, Fire Emblem, and Final Fantasy continue pushing JRPGs further into the mainstream.
+
 ---
 
 ## Sources
@@ -83,3 +88,5 @@ Developers have confirmed progress and upcoming announcements. Likely reveal at 
 - [New Release Round-Up (March 26, 2026) — RPGamer](https://rpgamer.com/2026/03/new-release-round-up-march-26-2026/)
 - [RPGFan's 30 Most Anticipated Games of 2026 — RPGFan](https://www.rpgfan.com/feature/rpgfans-30-most-anticipated-games-of-2026/)
 - [Welcome The Next 5 Big JRPGs — Game Rant](https://gamerant.com/big-upcoming-jrpgs-games-2025-2026/)
+- [5 JRPGs Releasing in 2026 Worth Keeping Your Eye On — ComicBook.com](https://comicbook.com/gaming/list/5-jrpgs-releasing-in-2026-that-are-worth-keeping-your-eye-on/)
+- [The 8 Best RPGs of 2026 — GIANTY](https://www.gianty.com/the-8-best-rpgs-of-2026/)
